@@ -4,7 +4,9 @@ This is a simple auto walking script, for lazy people who can't hold w for long 
 # Prerequisites:
 
 To use this script, you must have Python 3 installed. You will also need to install two Python libraries:
+
 pyautogui: For simulating mouse and keyboard actions. 
+
 pynput: For listening for the hotkeys
 
 To install run this: 
