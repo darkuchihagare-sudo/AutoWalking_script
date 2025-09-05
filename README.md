@@ -12,7 +12,7 @@ pynput: For listening for the hotkeys
 To install run this: 
 
       pip install pyautogui pynput
-
+ 
 # How to use on linux:
  Open your terminal and run:
  python3 FileName.py
