@@ -13,6 +13,6 @@ To install run this: pip install pyautogui pynput
 
 # Commands:
    
-   Press h to start/restart the script
-   Press w to walk manually
-   Press i to close the script
+         Press h to start/restart the script
+         Press w to walk manually
+         Press i to close the script
